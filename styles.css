@@ -77,6 +77,10 @@ input:valid, select:valid, textarea:valid {
   width: 12px;
 }
 
+.radio-group input[type="radio"]:checked + label {
+  color: blue;
+}
+
 .radio-group input[type="radio"] {
   margin-top: 16px;
   width: 10%;
@@ -85,9 +89,7 @@ input:valid, select:valid, textarea:valid {
 
 
     
-.radio-group input[type="radio"]:checked + label {
-  color: blue;
-}
+
 
 
 input:first-of-type {
