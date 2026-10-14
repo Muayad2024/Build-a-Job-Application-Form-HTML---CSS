@@ -87,11 +87,6 @@ input:valid, select:valid, textarea:valid {
 
 }
 
-
-    
-
-
-
 input:first-of-type {
     border-radius: 16px;
 }
@@ -107,7 +102,6 @@ fieldset {
   border-width: 1px;
   }
   
-
 
 
 
